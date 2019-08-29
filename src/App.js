@@ -9,7 +9,9 @@ function App() {
       <Navbar />
       <Header />
       <h1>What is Lorem?</h1>
-      <p>Lorem Ipsum</p>
+      <body>
+        <p>Lorem Ipsum</p>
+      </body>
     </div>
   );
 }
