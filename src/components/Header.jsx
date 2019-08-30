@@ -25,7 +25,7 @@ Ad proident ullamco fugiat ut consectetur tempor adipisicing ex eiusmod. Id ad r
   Minim adipisicing cillum voluptate fugiat elit laboris consectetur sunt mollit reprehenderit eu. Incididunt ea reprehenderit id id pariatur reprehenderit sint ex ad velit incididunt aute. Minim incididunt irure Lorem occaecat occaecat deserunt sit pariatur. Adipisicing commodo consectetur commodo dolore mollit pariatur. Qui proident nulla veniam culpa esse nostrud magna sit est magna fugiat reprehenderit pariatur. Reprehenderit ullamco qui commodo in consectetur fugiat.
 Nisi ullamco officia proident reprehenderit nulla elit est id irure cupidatat eiusmod. Occaecat aliqua ad culpa exercitation esse aliquip consectetur nisi ipsum Lorem. Officia ullamco dolor occaecat eu magna excepteur ea. Tempor reprehenderit deserunt velit do velit ipsum veniam.</p>
       </section>
-      <section class="sec3"> <img src={require('./images/bg1.jpg')} /></section>
+      <section class="sec3"> <img src={require('./images/bg3.jpg')} /></section>
       <section class="content">
         <p>Labore officia consectetur aliquip irure eu labore consequat duis cupidatat. Nostrud officia nisi nulla deserunt. Amet anim reprehenderit nostrud pariatur. Commodo ipsum eu consequat eu pariatur eu officia ad occaecat. Consequat sit aute proident fugiat adipisicing et et ad. Veniam culpa do labore fugiat id.
   Veniam aliquip pariatur duis reprehenderit minim commodo eu aliquip nulla ut sunt velit. Labore labore in esse veniam proident duis culpa. Eu dolor et cupidatat cupidatat id anim veniam. Irure adipisicing dolore occaecat sint tempor.
