@@ -52,7 +52,7 @@ body{
 .nav ul li a.active,
 .nav ul li a:hover{
   color: #fff;
-  background: grey;
+  background: goldenrod;
 }
 
 section.sec1 img{
@@ -61,6 +61,22 @@ section.sec1 img{
   background-size: cover;
 }
 
+section.sec2 img{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+
+section.sec3 img{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+
+section.content{
+  padding: 100px;
+  
+}
 h1, p{
-  text-align: center;
+  /* text-align: center; */
 }
