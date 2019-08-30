@@ -8,9 +8,7 @@ export default function Header() {
       <section class="content">
         <h1>What will anyone do without Lorem Ipsum?</h1>
         <p>Dolor nisi sunt dolor non consequat do proident. Qui minim voluptate fugiat ea eu minim minim laboris id aliqua Lorem esse anim reprehenderit. Reprehenderit laborum do est ex esse anim eu. Labore esse elit dolor aliqua ex occaecat cupidatat pariatur eu voluptate nulla ea enim. Dolore sit ipsum fugiat pariatur nostrud elit incididunt consectetur. Quis labore exercitation proident nisi eiusmod excepteur adipisicing. Sunt reprehenderit nostrud consequat excepteur cillum commodo magna nisi incididunt velit reprehenderit consequat cupidatat.
-    Nostrud nostrud magna dolor elit pariatur pariatur. Aliquip esse ea aliquip minim nulla ullamco ad. Lorem velit do ea do dolore excepteur nulla.</p>
-        <br></br>
-        <p>Minim id labore nostrud enim culpa deserunt. Amet laboris ut velit nostrud amet. Dolore occaecat commodo amet et incididunt proident Lorem officia aliquip fugiat dolor irure duis labore.
+    Nostrud nostrud magna dolor elit pariatur pariatur. Aliquip esse ea aliquip minim nulla ullamco ad. Lorem velit do ea do dolore excepteur nulla. Minim id labore nostrud enim culpa deserunt. Amet laboris ut velit nostrud amet. Dolore occaecat commodo amet et incididunt proident Lorem officia aliquip fugiat dolor irure duis labore.
 Ad proident ullamco fugiat ut consectetur tempor adipisicing ex eiusmod. Id ad reprehenderit consequat laboris deserunt ad elit. Enim sint voluptate consequat officia officia ad. Quis nostrud deserunt sunt labore occaecat ad. Non nostrud ut occaecat laborum culpa dolore qui.
   Duis non amet consectetur eu ipsum reprehenderit incididunt aute aliquip do elit. Eiusmod velit dolore nulla do cupidatat. Officia officia tempor occaecat non fugiat do nulla.</p>
       </section>

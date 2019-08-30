@@ -10,8 +10,8 @@ export default function Navbar() {
           <img src={require('./images/logo.png')} />
         </div>
         <ul>
-          <li><a href="#" class="active">Home</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#" class="active">About</a></li>
           <li><a href="#">Services</a></li>
           <li><a href="#">Portfolio</a></li>
           <li><a href="#">Team</a></li>
