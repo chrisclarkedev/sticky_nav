@@ -7,7 +7,6 @@ export default function Header() {
       <section class="sec1"> <img src={require('./images/bg1.jpg')} /></section>
       <section class="content">
         <h1>What will anyone do without Lorem Ipsum?</h1>
-        <h1>How and why do we use it?</h1>
         <p>Dolor nisi sunt dolor non consequat do proident. Qui minim voluptate fugiat ea eu minim minim laboris id aliqua Lorem esse anim reprehenderit. Reprehenderit laborum do est ex esse anim eu. Labore esse elit dolor aliqua ex occaecat cupidatat pariatur eu voluptate nulla ea enim. Dolore sit ipsum fugiat pariatur nostrud elit incididunt consectetur. Quis labore exercitation proident nisi eiusmod excepteur adipisicing. Sunt reprehenderit nostrud consequat excepteur cillum commodo magna nisi incididunt velit reprehenderit consequat cupidatat.
     Nostrud nostrud magna dolor elit pariatur pariatur. Aliquip esse ea aliquip minim nulla ullamco ad. Lorem velit do ea do dolore excepteur nulla.</p>
         <br></br>
@@ -17,6 +16,7 @@ Ad proident ullamco fugiat ut consectetur tempor adipisicing ex eiusmod. Id ad r
       </section>
       <section class="sec2"> <img src={require('./images/bg2.jpg')} /></section>
       <section class="content">
+        <h1>How and why do we use it?</h1>
         <p>Sunt officia amet qui in. Exercitation laboris nisi pariatur esse incididunt aute occaecat enim fugiat nulla consectetur id proident. Dolore minim et tempor pariatur qui elit ut consectetur fugiat culpa cupidatat.
   Aute et irure cupidatat est est excepteur proident mollit. Eu irure laborum id fugiat nisi. Excepteur amet veniam deserunt cillum. Ex cillum sunt eiusmod deserunt. Ullamco anim sint ad tempor ullamco aliquip mollit occaecat consequat. Officia ad dolore irure consequat proident nulla amet anim quis mollit.
   Ipsum sint nostrud ex tempor eiusmod nostrud do commodo Lorem mollit. Proident eiusmod id non do aliquip tempor consectetur sunt reprehenderit cillum nostrud ad. Laborum irure duis et in cupidatat ea nulla duis. Velit laborum magna ex incididunt eiusmod excepteur dolore enim excepteur qui. Eu quis nulla culpa dolore dolor mollit nulla aliquip tempor duis aliquip. Cupidatat anim voluptate pariatur enim est culpa minim amet ex et.

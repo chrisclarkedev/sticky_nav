@@ -19,6 +19,9 @@ body{
   transition: .5s;
 }
 
+.nav.black{
+background: rgba(0,0,0, .8);
+}
 .nav .logo{
   float:left;
 }
@@ -75,8 +78,20 @@ section.sec3 img{
 
 section.content{
   padding: 100px;
-  
 }
+
+section.content h1{
+  margin: 0;
+  padding: 0;
+  font-size: 2em;
+}
+
+section.content p{
+  margin: 20px 0 0;
+  padding: 0;
+  font-size: 1.1em;
+}
+
 h1, p{
   /* text-align: center; */
 }
