@@ -8,10 +8,6 @@ function App() {
     <div className="App">
       <Navbar />
       <Header />
-      <h1>What is Lorem?</h1>
-      <body>
-        <p>Lorem Ipsum</p>
-      </body>
     </div>
   );
 }

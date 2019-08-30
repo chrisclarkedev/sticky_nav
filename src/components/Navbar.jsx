@@ -5,8 +5,8 @@ import React from 'react';
 export default function Navbar() {
   return (
     <>
-      <nav>
-        <div className="logo">
+      <div className="nav">
+        <div class="logo">
           <img src={require('./images/logo.png')} />
         </div>
         <ul>
@@ -17,7 +17,7 @@ export default function Navbar() {
           <li><a href="#">Team</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
-      </nav>
+      </div>
       <section class="sec1"> </section>
       <section class="sec2"> </section>
       <section class="sec3"> </section>
