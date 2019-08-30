@@ -10,7 +10,7 @@ export default function Navbar() {
           <img src={require('./images/logo.png')} />
         </div>
         <ul>
-          <li><a href="#">Home</a></li>
+          <li><a href="#" class="active">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Services</a></li>
           <li><a href="#">Portfolio</a></li>
@@ -18,11 +18,6 @@ export default function Navbar() {
           <li><a href="#">Contact</a></li>
         </ul>
       </div>
-      <section class="sec1"> </section>
-      <section class="sec2"> </section>
-      <section class="sec3"> </section>
-      <section class="sec4"> </section>
-      <section class="sec5"> </section>
     </>
   )
 }
